@@ -1,0 +1,994 @@
+2017-05-02 14:41:51 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Projects\view.ctp, line 108]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Projects\view.ctp, line 108
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:41:57 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Projects\view.ctp, line 108]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Projects\view.ctp, line 108
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:41:57 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Projects\view.ctp, line 108]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Projects\view.ctp, line 108
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:41:57 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Projects\view.ctp, line 108]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Projects\view.ctp, line 108
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:22 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined index: user_id in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 62
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:28 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:55 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:55 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:55 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:55 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:55 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:58 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:58 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:58 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:58 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-05-02 14:51:58 Debug: Notice (8): Undefined variable: disabled in [D:\Program\Xampp\htdocs\manager\Plugin\Managers\View\Tasks\index.ctp, line 78]
+Trace:
+ErrorHandler::handleError() - APP\Vendor\cakephp\cakephp\lib\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Managers\View\Tasks\index.ctp, line 78
+View::_evaluate() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 971
+View::_render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 933
+View::render() - APP\Vendor\cakephp\cakephp\lib\Cake\View\View.php, line 473
+Controller::render() - APP\Vendor\cakephp\cakephp\lib\Cake\Controller\Controller.php, line 963
+CroogoAppController::render() - APP\Vendor\croogo\croogo\Croogo\Controller\CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - APP\Vendor\cakephp\cakephp\lib\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 105
+
+2017-10-29 19:07:22 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-10-29 19:07:42 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-10-30 02:21:57 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-10-30 15:24:04 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-10-30 15:25:14 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-10-30 15:29:02 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-10-30 15:40:41 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-10-30 15:59:21 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-02 15:45:51 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-05 23:18:00 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-09 00:15:05 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-09 21:25:20 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-09 23:47:14 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-09 23:47:29 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-10 00:23:26 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-10 00:23:45 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-13 00:58:51 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-16 00:05:20 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-23 15:40:03 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-24 23:38:27 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-29 00:14:47 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-29 20:50:21 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-30 15:55:39 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-30 20:17:12 Notice: Notice (8): Undefined variable: id in [/var/www/html/dev/web/calendar/Vendor/croogo/croogo/Users/Controller/UsersController.php, line 451]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+UsersController::edit() - APP/Vendor/croogo/croogo/Users/Controller/UsersController.php, line 451
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-30 20:17:18 Notice: Notice (8): Undefined variable: id in [/var/www/html/dev/web/calendar/Vendor/croogo/croogo/Users/Controller/UsersController.php, line 451]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+UsersController::edit() - APP/Vendor/croogo/croogo/Users/Controller/UsersController.php, line 451
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-30 22:44:42 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-11-30 22:44:53 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-06 17:17:29 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/EventsController.php, line 232]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+EventsController::view() - APP/Plugin/Managers/Controller/EventsController.php, line 232
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 3]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 3
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 9]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 9
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: User in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 13]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 13
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 17]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 17
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 21]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 21
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 25]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 25
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 29]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 29
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 35]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 35
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 37]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 37
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 39]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 39
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 51]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 51
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 15:10:57 Notice: Notice (8): Undefined index: Event in [/var/www/html/dev/web/calendar/Plugin/Managers/View/Events/view.ctp, line 62]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+include - APP/Plugin/Managers/View/Events/view.ctp, line 62
+View::_evaluate() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 971
+View::_render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 933
+View::render() - APP/Vendor/cakephp/cakephp/lib/Cake/View/View.php, line 473
+Controller::render() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 963
+CroogoAppController::render() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 360
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-07 22:01:58 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-18 17:28:04 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2017-12-21 18:17:05 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2018-02-08 20:46:47 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2018-02-08 23:36:17 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2018-02-09 15:59:44 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+
+2018-02-09 16:02:04 Notice: Notice (8): Use of undefined constant notes - assumed 'notes' in [/var/www/html/dev/web/calendar/Plugin/Managers/Controller/NotesController.php, line 40]
+Trace:
+ErrorHandler::handleError() - APP/Vendor/cakephp/cakephp/lib/Cake/Error/ErrorHandler.php, line 230
+NotesController::tasks() - APP/Plugin/Managers/Controller/NotesController.php, line 40
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - APP/Vendor/cakephp/cakephp/lib/Cake/Controller/Controller.php, line 491
+CroogoAppController::invokeAction() - APP/Vendor/croogo/croogo/Croogo/Controller/CroogoAppController.php, line 220
+Dispatcher::_invoke() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - APP/Vendor/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 105
+

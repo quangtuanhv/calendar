@@ -1,0 +1,2 @@
+1595592280
+a:2:{s:12:"dependencies";a:17:{s:3:"Acl";a:0:{}s:6:"Blocks";a:0:{}s:8:"Ckeditor";a:1:{i:0;s:7:"Wysiwyg";}s:10:"ClearCache";a:0:{}s:8:"Contacts";a:0:{}s:6:"Croogo";a:0:{}s:10:"Extensions";a:0:{}s:11:"FileManager";a:0:{}s:5:"Menus";a:0:{}s:4:"Meta";a:0:{}s:10:"Migrations";a:0:{}s:5:"Nodes";a:0:{}s:6:"Search";a:0:{}s:8:"Settings";a:0:{}s:8:"Taxonomy";a:0:{}s:5:"Users";a:0:{}s:7:"Wysiwyg";a:0:{}}s:6:"usedBy";a:1:{s:7:"Wysiwyg";a:1:{i:0;s:8:"Ckeditor";}}}

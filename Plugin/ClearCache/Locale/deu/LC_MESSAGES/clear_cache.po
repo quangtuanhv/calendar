@@ -1,0 +1,13 @@
+# German translation of ClearCache Plugin
+#
+msgid ""
+msgstr ""
+
+msgid "Clear Cache"
+msgstr "Cache leeren"
+
+msgid "Cache has been cleared successfully."
+msgstr "Der Cache wurde erfolgreich geleert."
+
+msgid "An error occurred. Please, try again."
+msgstr "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
